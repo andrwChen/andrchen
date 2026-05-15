@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8194d098-9db0-4567-a2b6-41cb72833b9b" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/code/projects.html" beforeDir="false" afterPath="$PROJECT_DIR$/code/projects.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/courses.html" beforeDir="false" afterPath="$PROJECT_DIR$/courses.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Sass File" />
+        <option value="CSS File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="FormatOnSaveOptions">
+    <option name="myRunOnSave" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;andrwChen&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/uandrc/uandrc.github.io.git&quot;,
+    &quot;accountId&quot;: &quot;20ea019f-de54-4fdf-b380-21a8e2ce5bbd&quot;
+  }
+}</component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="375TCYP5nbtoisezTF7pF4mBWpc" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "JavaScript Debug.about-me.html.executor": "Run",
+    "JavaScript Debug.about.html.executor": "Run",
+    "JavaScript Debug.add-jar-to-project.html.executor": "Run",
+    "JavaScript Debug.andrcmail-manual.html.executor": "Run",
+    "JavaScript Debug.andrcmail.html.executor": "Run",
+    "JavaScript Debug.blog.html.executor": "Run",
+    "JavaScript Debug.contact.html.executor": "Run",
+    "JavaScript Debug.convert-jar-to-exe.html.executor": "Debug",
+    "JavaScript Debug.convert-java-to-exe.html.executor": "Run",
+    "JavaScript Debug.courses.html.executor": "Run",
+    "JavaScript Debug.create-a-jar-file.html.executor": "Run",
+    "JavaScript Debug.even-plus-odd-is-odd.html.executor": "Run",
+    "JavaScript Debug.fun-java-facts.html.executor": "Run",
+    "JavaScript Debug.gallery.html.executor": "Run",
+    "JavaScript Debug.generate-javadoc-html.html.executor": "Run",
+    "JavaScript Debug.home.html.executor": "Run",
+    "JavaScript Debug.how-to-cook.html.executor": "Run",
+    "JavaScript Debug.index.html.executor": "Run",
+    "JavaScript Debug.jokes.html.executor": "Run",
+    "JavaScript Debug.languages-a-to-z.html.executor": "Run",
+    "JavaScript Debug.maximize-lifespan.html.executor": "Run",
+    "JavaScript Debug.mvc.html.executor": "Run",
+    "JavaScript Debug.plants.html.executor": "Run",
+    "JavaScript Debug.projects.html.executor": "Run",
+    "JavaScript Debug.questions.html.executor": "Run",
+    "JavaScript Debug.raspberry-pi-setup.html.executor": "Run",
+    "JavaScript Debug.simplicity.html.executor": "Run",
+    "JavaScript Debug.stretch-list.html.executor": "Run",
+    "JavaScript Debug.tricky-java-code.html.executor": "Run",
+    "JavaScript Debug.why-so-plain.html.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/sande/WebStormProjects/andrchen",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Artifacts",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\andrc\Documents\Code Projects\uandrc.github.io-main\img\gallery_2" />
+      <recent name="C:\Users\andrc\Documents\Code Projects\uandrc.github.io-main\img" />
+      <recent name="C:\Users\andrc\Documents\Code Projects\uandrc.github.io-main\img\hobbies" />
+      <recent name="C:\Users\andrc\Documents\Code Projects\uandrc.github.io-main" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\andrc\Documents\Code Projects\uandrc.github.io-main\img\gallery_2" />
+      <recent name="C:\Users\andrc\Documents\Code Projects\uandrc.github.io-main\code\tutorials\rpi" />
+      <recent name="C:\Users\andrc\Documents\Code Projects\uandrc.github.io-main\img\blog" />
+      <recent name="C:\Users\andrc\Documents\Code Projects\uandrc.github.io-main\code\java" />
+      <recent name="C:\Users\andrc\Documents\Code Projects\uandrc.github.io-main\css" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="about.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/uandrc.github.io-main/about.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-31caf2ab9e3c-JavaScript-WS-261.24374.125" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8194d098-9db0-4567-a2b6-41cb72833b9b" name="Changes" comment="" />
+      <created>1766191806168</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1766191806168</updated>
+      <workItem from="1766191807422" duration="632000" />
+      <workItem from="1766193739948" duration="197000" />
+      <workItem from="1766194024523" duration="1821000" />
+      <workItem from="1766195873796" duration="36918000" />
+      <workItem from="1766309966584" duration="11776000" />
+      <workItem from="1766426200760" duration="230000" />
+      <workItem from="1766426861150" duration="22778000" />
+      <workItem from="1766515501049" duration="1504000" />
+      <workItem from="1766517384705" duration="24471000" />
+      <workItem from="1766703621285" duration="65000" />
+      <workItem from="1766703782594" duration="77000" />
+      <workItem from="1766724040506" duration="471000" />
+      <workItem from="1766729494906" duration="36000" />
+      <workItem from="1766986578756" duration="819000" />
+      <workItem from="1766987431229" duration="3829000" />
+      <workItem from="1767042807335" duration="612000" />
+      <workItem from="1767043689193" duration="768000" />
+      <workItem from="1767044748650" duration="424000" />
+      <workItem from="1767045201446" duration="194000" />
+      <workItem from="1767045548981" duration="77000" />
+      <workItem from="1767045658511" duration="38000" />
+      <workItem from="1767045754240" duration="43000" />
+      <workItem from="1767045814129" duration="16000" />
+      <workItem from="1767045863133" duration="5395000" />
+      <workItem from="1767156086289" duration="132000" />
+      <workItem from="1767417722113" duration="13000" />
+      <workItem from="1767467012890" duration="225000" />
+      <workItem from="1767744160924" duration="3317000" />
+      <workItem from="1767747777151" duration="2149000" />
+      <workItem from="1767808385016" duration="3604000" />
+      <workItem from="1767825890064" duration="52000" />
+      <workItem from="1767826272669" duration="74000" />
+      <workItem from="1767885576212" duration="54000" />
+      <workItem from="1768516719209" duration="639000" />
+      <workItem from="1778864014201" duration="208000" />
+      <workItem from="1778864227893" duration="2000" />
+      <workItem from="1778864780662" duration="8000" />
+      <workItem from="1778865121977" duration="48000" />
+      <workItem from="1778865182950" duration="25000" />
+      <workItem from="1778865214986" duration="32000" />
+      <workItem from="1778868027250" duration="3743000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
