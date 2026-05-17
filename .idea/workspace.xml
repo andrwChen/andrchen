@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="8194d098-9db0-4567-a2b6-41cb72833b9b" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,61 +55,62 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;JavaScript Debug.about-me.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.about.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.add-jar-to-project.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.andrcmail-manual.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.andrcmail.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.blog.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.contact.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.convert-jar-to-exe.html.executor&quot;: &quot;Debug&quot;,
-    &quot;JavaScript Debug.convert-java-to-exe.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.courses.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.create-a-jar-file.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.even-plus-odd-is-odd.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.fun-java-facts.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.gallery.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.generate-javadoc-html.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.home.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.how-to-cook.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.index.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.jokes.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.languages-a-to-z.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.maximize-lifespan.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.mvc.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.plants.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.projects.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.questions.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.raspberry-pi-setup.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.simplicity.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.stretch-list.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.tricky-java-code.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.why-so-plain.html.executor&quot;: &quot;Run&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/sande/WebStormProjects/andrchen&quot;,
-    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Artifacts&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "JavaScript Debug.about-me.html.executor": "Run",
+    "JavaScript Debug.about.html.executor": "Run",
+    "JavaScript Debug.add-jar-to-project.html.executor": "Run",
+    "JavaScript Debug.andrcmail-manual.html.executor": "Run",
+    "JavaScript Debug.andrcmail.html.executor": "Run",
+    "JavaScript Debug.blog.html.executor": "Run",
+    "JavaScript Debug.contact.html.executor": "Run",
+    "JavaScript Debug.convert-jar-to-exe.html.executor": "Debug",
+    "JavaScript Debug.convert-java-to-exe.html.executor": "Run",
+    "JavaScript Debug.courses.html.executor": "Run",
+    "JavaScript Debug.create-a-jar-file.html.executor": "Run",
+    "JavaScript Debug.even-plus-odd-is-odd.html.executor": "Run",
+    "JavaScript Debug.fun-java-facts.html.executor": "Run",
+    "JavaScript Debug.gallery.html.executor": "Run",
+    "JavaScript Debug.generate-javadoc-html.html.executor": "Run",
+    "JavaScript Debug.home.html.executor": "Run",
+    "JavaScript Debug.how-to-cook.html.executor": "Run",
+    "JavaScript Debug.index.html.executor": "Run",
+    "JavaScript Debug.jokes.html.executor": "Run",
+    "JavaScript Debug.languages-a-to-z.html.executor": "Run",
+    "JavaScript Debug.maximize-lifespan.html.executor": "Run",
+    "JavaScript Debug.mvc.html.executor": "Run",
+    "JavaScript Debug.plants.html.executor": "Run",
+    "JavaScript Debug.projects.html.executor": "Run",
+    "JavaScript Debug.questions.html.executor": "Run",
+    "JavaScript Debug.raspberry-pi-setup.html.executor": "Run",
+    "JavaScript Debug.simplicity.html.executor": "Run",
+    "JavaScript Debug.stretch-list.html.executor": "Run",
+    "JavaScript Debug.tricky-java-code.html.executor": "Run",
+    "JavaScript Debug.why-so-plain.html.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "main",
+    "javascript.preferred.runtime.type.id": "node",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/sande/WebStormProjects/andrchen",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Artifacts",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\andrc\Documents\Code Projects\uandrc.github.io-main\img\gallery_2" />
@@ -192,7 +192,7 @@
       <workItem from="1778865214986" duration="32000" />
       <workItem from="1778868027250" duration="4398000" />
       <workItem from="1778883093064" duration="1000" />
-      <workItem from="1778943122888" duration="2372000" />
+      <workItem from="1778943122888" duration="7951000" />
     </task>
     <servers />
   </component>
